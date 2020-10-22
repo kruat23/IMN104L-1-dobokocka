@@ -1,6 +1,6 @@
 # Dobókockák
 
-Ahogy a témánk is utal rá, a feladatunk a kurzus Képfeldolgozás haladóknak MSc kurzus keretében egy olyan szoftver elkészítése, mely képes két dobókockáról készült kép alapján a dobókockák értékét, az az a felső lapokon található pontok számát meghatározni.
+Ahogy a témánk is utal rá, a feladatunk a Képfeldolgozás haladóknak MSc kurzus keretében egy olyan szoftver elkészítése, mely képes két dobókockáról készült kép alapján azok értékét, az az a felső lapokon található pontok számát meghatározni.
 
 ## Csapattagok
 | Név    | Github fiók |
