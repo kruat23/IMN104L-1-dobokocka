@@ -32,4 +32,4 @@ if __name__ == '__main__':
     if len(sys.argv) == 1:
         exit(0)
     #main(sys.argv[1])
-    train_cnn()
+    #train_cnn()
